@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "ru.kotohod.kipole",
-        "sha256_cert_fingerprints": ["22:E2:61:DA:19:F5:81:F5:24:51:3D:8C:68:4C:35:11:B9:4A:99:5C:B7:91:DF:6C:29:0E:63:D6:B1:97:D5:47"]
-      }
-    }]
