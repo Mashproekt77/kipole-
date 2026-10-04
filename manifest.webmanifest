@@ -1,0 +1,24 @@
+{
+  "name": "КИ-Поле PRO MAX",
+  "short_name": "КИ-Поле",
+  "description": "Обмеры, геодезия, межевание, техплан. Разработчик: @Kotohod",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#1a1a2e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
